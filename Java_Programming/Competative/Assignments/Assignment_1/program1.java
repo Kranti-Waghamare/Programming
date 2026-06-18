@@ -1,7 +1,5 @@
 //program to divide two numbers
 
-package Programming.Java_Programming.Competative.Assignments.Assignment_1;
-
 import java.util.*;
 
 class DivideX
