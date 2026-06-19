@@ -1,4 +1,4 @@
-package Programming.Java_Programming.Practice.LB_class;
+package Practice.LB_class;
 
 class program1
 {
