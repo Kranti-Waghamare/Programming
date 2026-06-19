@@ -18,7 +18,7 @@ int main()
     float i = 0.0f, j = 0.0f, k = 0.0f; 
 
     cout<<"Enter the first number : \n";
-    scanf("%d", &i);
+    cin>>i;
 
     cout<<"Enter the second number : \n";
     cin>>j;
