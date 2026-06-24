@@ -13,10 +13,10 @@ class program5
         Scanner sobj = new Scanner(System.in);
 
         System.out.println("Enter the first number : ");
-        fValue1 = sobj.nextInt();
+        fValue1 = sobj.nextFloat();
 
         System.out.println("Enter the second number : ");
-        fValue2 = sobj.nextInt();
+        fValue2 = sobj.nextFloat();
 
         fResult = fValue1 + fValue2;
 
