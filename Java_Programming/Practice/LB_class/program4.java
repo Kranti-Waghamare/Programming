@@ -14,7 +14,7 @@ package Practice.LB_class;
 
 import java.util.Scanner;
 
-class program3 
+class program4 
 {
     public static void main(String A[])
     {
