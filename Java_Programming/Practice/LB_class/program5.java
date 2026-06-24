@@ -6,21 +6,21 @@ class program3
 {
     public static void main(String A[])
     {
-        float i = 0.0f;
-        float j = 0.0f;
-        float k = 0.0f;
+        float fValue1 = 0.0f;
+        float fValue2 = 0.0f;
+        float fResult = 0.0f;
 
         Scanner sobj = new Scanner(System.in);
 
         System.out.println("Enter the first number : ");
-        i = sobj.nextInt();
+        fValue1 = sobj.nextInt();
 
         System.out.println("Enter the second number : ");
-        j = sobj.nextInt();
+        fValue2 = sobj.nextInt();
 
-        k = i + j;
+        fResult = fValue1 + fValue2;
 
-        System.out.println("Addition is : "+k);
+        System.out.println("Addition is : "+fResult);
 
     }
 }
