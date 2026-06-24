@@ -24,10 +24,10 @@ class program4
         Scanner sobj = new Scanner(System.in);
 
         System.out.println("Enter the first number : ");
-        i = sobj.nextInt();
+        i = sobj.nextFloat();
 
         System.out.println("Enter the second number : ");
-        j = sobj.nextInt();
+        j = sobj.nextFloat();
 
         k = i + j;
 
